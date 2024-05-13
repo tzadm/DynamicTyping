@@ -4,8 +4,8 @@ age = 43
 print('age:       ', age)
 age = 43+1
 print('New age:   ',str(age))
-is_student = name
-print('Is Student:', is_student is name)
+is_student = True
+print('Is Student:', is_student )
 
 
 
